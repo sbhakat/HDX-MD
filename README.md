@@ -3,10 +3,11 @@ Gromacs plugin which helps you to calculate distance of three nearest water mole
 
 This plugin is for Gromacs 2019.4. The compilation steps are the same as for standard gromacs:
 
+```
 cd gromacs-2019.4
 tar xvf  mindist2_patch.tar
 mkdir build
 cd build
 cmake -DGMX_BUILD_OWN_FFTW=ON ..
 make -j4
-
+```
