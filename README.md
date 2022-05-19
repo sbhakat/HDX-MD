@@ -12,4 +12,9 @@ cmake -DGMX_BUILD_OWN_FFTW=ON ..
 make -j4
 ```
 
+Usage:
+
+1. Don't forget to save waters.
+2. Try ``` mindist2 -h ```
+
 Contact: Pär Söderhjelm, https://www.cmps.lu.se/bpc/people/par-soderhjelm/
