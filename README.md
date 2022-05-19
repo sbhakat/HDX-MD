@@ -11,3 +11,5 @@ cd build
 cmake -DGMX_BUILD_OWN_FFTW=ON ..
 make -j4
 ```
+
+Contact: Pär Söderhjelm, https://www.cmps.lu.se/bpc/people/par-soderhjelm/
